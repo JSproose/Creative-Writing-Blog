@@ -1,0 +1,5 @@
+includes:
+  - prod-env.yaml
+env-variables:
+  MONGO_USERNAME:node-server
+  MONGO_PASSWORD:cLElvCADRqjdtppY
